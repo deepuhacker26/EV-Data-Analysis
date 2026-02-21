@@ -38,7 +38,7 @@ Visualization: Tree map
 Description: Highlight the top 10 electric vehicle models based on the total number of vehicles, offering insights into consumer preferences and popular models in the market.
 ## Dashboards
 ### Tableau dashboard
-  ![Tableau]()
+  ![Tableau](EVA.png)
 ## Insights:
 - Tesla’s Market Dominance: Preliminary data suggests a heavy concentration of Tesla vehicles (Model 3 and Model Y), indicating strong brand loyalty and a successful early-mover advantage in the region.
 - The "Range Gap": There is a visible divide between older EV models (with ranges under 100 miles) and newer models surpassing 200–300 miles. This highlights the rapid advancement in battery density over the last 5 years.
